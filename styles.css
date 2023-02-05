@@ -1,0 +1,30 @@
+
+h1{
+    color: #13005A;
+    font-size: 75px;
+}
+h2{
+    color: #645CBB;
+}
+hr {
+    background-color: #00425A;
+    border-style: none;
+    height: 2px;
+}
+
+
+ 
+  
+.data{
+    color: #13005A;
+    font-size: 50px;
+}
+
+tr:hover {background-color: #c8f398;}
+.comment{
+    background-color: #8f86af;
+}
+.header{
+    background-color: rgb(10, 223, 74);
+}
+.hcol:hover{background-color: aliceblue;}
